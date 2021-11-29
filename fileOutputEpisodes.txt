@@ -1,0 +1,13 @@
+Month (2020),Number of Episodes
+January,20
+February,18
+March,18
+April,17
+May,20
+June,17
+July,20
+August,12
+September,14
+October,15
+November,15
+December,6
